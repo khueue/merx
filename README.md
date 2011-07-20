@@ -7,11 +7,9 @@ single file to a single connection a single time.
 
 Merx can be run like this:
 
-    ```
     $ merx /path/to/file.zip
     Merx is running and awaits a single connection (timeout [time] minutes).
     "http://[your-ip]:[some-port]/file.zip" copied to clipboard.
-    ```
 
 Paste the copied URL into your favorite messaging client and forget it.
 
