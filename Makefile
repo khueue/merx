@@ -6,4 +6,4 @@ build:
 	erl -make
 
 run: build
-	erl -pa ebin #-eval "merx_app:listen(4321)."
+	erl -pa ebin -eval "merx_app:listen(4321)."
